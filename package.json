@@ -1,0 +1,38 @@
+{
+  "name": "apple",
+  "version": "1.0.0",
+  "description": "Generate iOS app icons and launch screen images for different sizes.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackmatch/apple.git"
+  },
+  "keywords": [
+    "Apple",
+    "Icon",
+    "Images"
+  ],
+  "author": "blackmatch <coder.blackmatch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackmatch/apple/issues"
+  },
+  "homepage": "https://github.com/blackmatch/apple#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.10",
+    "sharp": "^0.20.3"
+  }
+}

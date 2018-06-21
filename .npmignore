@@ -1,0 +1,5 @@
+originFiles/
+outFiles/
+.eslintrc
+.gitignore
+test/
